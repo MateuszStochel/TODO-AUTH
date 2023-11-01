@@ -1,0 +1,22 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+:root {
+  /* colors */
+  --primary-100: #e2e0ff;
+  --primary-500: #645cff;
+  --primary-600: #504acc;
+
+
+  --white: #fff;
+  --red-dark: #842029;
+
+
+  --borderRadius: 0.25rem;
+  --max-width: 1120px;
+  --fluid-width: 90vw;
+}
+
